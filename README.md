@@ -1,2 +1,6 @@
 # gardening-md
-Gardening notes in Markdown
+Gardening notes in Markdownn
+
+Initial basic version.
+
+Looking for contributors.

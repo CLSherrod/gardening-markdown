@@ -1,0 +1,12 @@
+# Plants
+- [[Monstera]]
+- [[Mint]]
+- [[Small Palm]]
+- Boston fern
+- Heartleaf philodendron
+- Areca palm (indoor palms)
+- Goosefoot plant (aroid species)
+- Pink variegated polka dot plant
+- Croton variegated
+- Red ginger 
+- Coleus (painted nettle) versions 
